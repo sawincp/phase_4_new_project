@@ -1,0 +1,3 @@
+class DogHouse < ApplicationRecord
+    
+end
